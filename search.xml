@@ -24,6 +24,18 @@
         <content type="html"><![CDATA[<p>Ctrl+Shift+L 快捷键助手</p><p>Ctrl+Home 返回中心主题</p><p>Enter 插入主题</p><p>Tab 插入子主题</p><p>F2 编辑主题</p><p>F3 添加/编辑标签</p><p>F4 添加/编辑备注</p><p>F6 下钻</p><p>F7 截图</p><p>Shift+F6 上钻</p><p>Delete 删除</p><p>Ctrl+] 插入摘要</p><p>Ctrl+I 插入图片</p><p>Ctrl+Shift+H 插入超链接</p><p>Ctrl+1,2,3,4,5,6快速添加优先等级图标</p><p>Ctrl+B 添加外框</p><p>Ctrl+L 添加关联</p><p>Ctrl+s 保存</p><p>Ctrl++键 放大</p><p>Ctrl+F 键查找替换</p><p>展开目前分支+</p><p>收缩目前分支-</p>]]></content>
       
       
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> XMind </tag>
+            
+        </tags>
       
     </entry>
     
@@ -79,7 +91,7 @@
       <link href="/2022/01/01/daima/show/"/>
       <url>/2022/01/01/daima/show/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">a</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">a</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>hexo clean 清理本地缓存</p><p>hexo g = hexo generate  // 生成</p><p>hexo d = hexo deploy    // 部署</p><p>hexo s = hexo server    // 运行服务器</p><p>hexo new post “article title”    //新建文章</p>]]></content>
       
       
       
