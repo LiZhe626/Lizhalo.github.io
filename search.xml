@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>用PS处理不规则图形面积</title>
+      <link href="/2022/05/09/%E7%94%A8PS%E5%A4%84%E7%90%86%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E9%9D%A2%E7%A7%AF/"/>
+      <url>/2022/05/09/%E7%94%A8PS%E5%A4%84%E7%90%86%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E9%9D%A2%E7%A7%AF/</url>
+      
+        <content type="html"><![CDATA[<h1 id="用PS处理不规则图形面积"><a href="#用PS处理不规则图形面积" class="headerlink" title="用PS处理不规则图形面积"></a>用PS处理不规则图形面积</h1><h2 id="一-单位统一"><a href="#一-单位统一" class="headerlink" title="一 单位统一"></a>一 单位统一</h2><p><img src="/../img/PS%E6%AD%A5%E9%AA%A41.png" alt="PS步骤1"></p><p><img src="/../img/PS%E6%AD%A5%E9%AA%A42.png" alt="PS步骤2"></p><p>单位选择测量的单位</p><h2 id="二-多边形套索工具"><a href="#二-多边形套索工具" class="headerlink" title="二 多边形套索工具"></a>二 多边形套索工具</h2><p>套索工具，选取检测区域</p><h2 id="三-色彩范围"><a href="#三-色彩范围" class="headerlink" title="三 色彩范围"></a>三 色彩范围</h2><p>点击菜单栏【选择】中的【色彩范围】</p><p><img src="/../img/PS%E6%AD%A5%E9%AA%A43.png" alt="PS步骤3"></p><p>颜色容差设置为135~140 鼠标显示吸管模式 点击图片中的区域</p><p><img src="/../img/PS%E6%AD%A5%E9%AA%A44.png" alt="PS步骤4"></p><h2 id="四-直方图"><a href="#四-直方图" class="headerlink" title="四 直方图"></a>四 直方图</h2><p>选择【窗口】中的【直方图】</p><p><img src="/../img/PS%E6%AD%A5%E9%AA%A45.png" alt="PS步骤5"></p><p>可以查看像素为263172</p><p><img src="/../img/PS%E6%AD%A5%E9%AA%A46.png" alt="PS步骤6"></p><h2 id="五-图像大小"><a href="#五-图像大小" class="headerlink" title="五 图像大小"></a>五 图像大小</h2><p>选择【图像】中的【图像大小】查看图像分辨率 118.11像素/厘米</p><p><img src="/../img/PS%E6%AD%A5%E9%AA%A47.png" alt="PS步骤7"></p><p>每平方厘米有118.11*118.11=13949.9721个像素</p><p>已知总像素为263172个  所以此叶面积=263172/13949.9721=18.8654156cm²</p><p>补充：　</p><p>​        图像的最小单位是像素<br>　　图像的分辨率是 “像素/英寸”或“像素/厘米”，我们通常所说的72的分辨率就是指 72像素/英寸，也就是说在1英寸的长度的位置包含72个像素，那1平方英寸的面积里就会有72×72＝5184个像素。</p><p>​        所以当你要计算任意图形的面积时,先要知道所求图形区域中有多少个像素，<br>​        然后算出1平方厘米中像素的数量,最后用所得出总区域像素数量除以单位面积的像素数量即可得出面积的数值。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 研究生 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>文献阅读方法</title>
       <link href="/2022/04/29/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/"/>
       <url>/2022/04/29/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/</url>
